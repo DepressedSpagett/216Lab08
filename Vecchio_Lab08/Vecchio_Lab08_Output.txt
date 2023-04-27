@@ -1,0 +1,45 @@
+Lab 08 Output: 
+run:
+Current Band: AM | Frequency: 1440 kHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 1
+Current Band: FM | Frequency: 90.1 MHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 2
+Current Band: FM | Frequency: 90.3 MHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 3
+Current Band: FM | Frequency: 90.1 MHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 4
+Current Band: FM | Frequency: 90.1 MHz | Volume: 37
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 5
+Current Band: FM | Frequency: 90.1 MHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 6
+To Set preset, choose a number (1-5): 4
+Current Band: FM | Frequency: 106.7 MHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 7
+To Select preset, choose a number (1-5): 4
+Current Band: FM | Frequency: 106.7 MHz | Volume: 36
+AM Presets: 1: 1430 kHz 2: 1440 kHz 3: 1240 kHz 4: 1410 kHz 5: 1010 kHz 
+FM Presets: 1: 87.9 MHz 2: 93.5 MHz 3: 103.1 MHz 4: 106.7 MHz 5: 90.1 MHz 
+
+Choose one of the following: (1)Change band, (2)Increase Frequency, (3)Decrease Frequency, (4)Volume up, (5)Volume Down, (6)Set Preset, (7)Select Preset, (8)Save/Quit: 8
+BUILD SUCCESSFUL (total time: 1 minute 6 seconds)
